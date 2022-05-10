@@ -10,7 +10,8 @@ Crie uma lista linear que consiga armazenar um conjunto de 100 nomes quaisquer, 
 A resolução deste problema consiste em:
 <li>Ler um número X de nomes de um arquivo chamado "nomes.txt" e verificar se esse arquivo existe e não está vazio;</li>
 <li>Caso a lista não esteja vazia e exista, o método "Replicacao" é chamado dentro do método "lerArquivo" com o intuito de detectar possíveis repetições;</li>
-<li>Primeiramente, o método "Replicacao" verifica se a lista está vazia, em seguida verifica se existem nomes repetidos dentro da lista. Caso exista, ele o identifica e insere um "\n" no local.</li>
+<li>Primeiramente, o método "Replicacao" verifica se a lista está vazia, em seguida verifica se existem nomes repetidos dentro da lista. Caso exista, ele o identifica e insere um "\n" no local;</li>
+<li>A saída é a própria lista lida, porém sem os nomes replicados na sua primeira aparição.</li>
 
 <h2>Problema 2.2</h2>
 
