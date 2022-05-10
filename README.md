@@ -6,6 +6,10 @@ Crie uma lista linear que consiga armazenar um conjunto de 100 nomes quaisquer, 
 <li>Uma função que consiga identificar replicações na lista, ou seja, nomes iguais. Remova todas as réplicas sem mover os ”ponteiro“.</li>
 <li>Como você gerenciaria os espaços em branco para novas inserções? Qual seria o custo dessas novas inserções?</li>
 
+<h2>Resolução</h2>
+
+
+
 # Compilação e Execução
 
 O progama disponibilizado possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes de execução:
