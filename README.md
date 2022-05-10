@@ -7,10 +7,12 @@ Crie uma lista linear que consiga armazenar um conjunto de 100 nomes quaisquer, 
 <li>Como você gerenciaria os espaços em branco para novas inserções? Qual seria o custo dessas novas inserções?</li>
 
 <h2>Resolução</h2>
+A resolução deste problema consiste em:
+<li></li>
 
 
 
-# Compilação e Execução
+<h2>Compilação e Execução</h2>
 
 O progama disponibilizado possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes de execução:
 
