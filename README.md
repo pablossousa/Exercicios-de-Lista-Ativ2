@@ -7,9 +7,12 @@ Crie uma lista linear que consiga armazenar um conjunto de 100 nomes quaisquer, 
 <li>Como você gerenciaria os espaços em branco para novas inserções? Qual seria o custo dessas novas inserções?</li>
 
 <h2>Resolução</h2>
-A resolução deste problema consiste em:
-<li></li>
 
+A resolução deste problema consiste em:
+<li>Ler um número X de nomes de um arquivo chamado "nomes.txt" e verificar se esse arquivo existe e não está vazio;</li>
+<li>Caso a lista não esteja vazia e exista, o método "Replicacao" é chamado dentro do método "lerArquivo" com o intuito de detectar possíveis repetições;</li>
+<li></li>
+<li></li>
 
 
 <h2>Compilação e Execução</h2>
