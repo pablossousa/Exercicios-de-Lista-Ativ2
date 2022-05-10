@@ -19,7 +19,7 @@ Como você gerenciaria os espaços em branco para novas inserções? Qual seria 
 
 <h2>Resolução</h2>
 
-Os espaços em branco são facilmente encontrados por não haver nada dentro dessa posição, logo é não é difícil substituir os mesmos por outros nomes. O custo dessas novas inserções seria de n, pois a lista é percorrida uma única vez buscando posições vazias.
+Os espaços em branco são facilmente encontrados por não haver nada dentro dessa posição, logo não é difícil substituir os mesmos por outros nomes. O custo dessas novas inserções seria de n, pois a lista é percorrida uma única vez buscando posições vazias.
 
 <h2>Compilação e Execução</h2>
 
