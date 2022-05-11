@@ -5,7 +5,7 @@
 Crie uma lista linear que consiga armazenar um conjunto de 100 nomes quaisquer, os quais serão salvos de forma aleatória. Feito a estrutura crie as seguintes ações:
 <li>Uma função que consiga identificar replicações na lista, ou seja, nomes iguais. Remova todas as réplicas sem mover os ”ponteiro“.
 
-<h2>Resolução</h2>
+<h3>Resolução</h3>
 
 A resolução deste problema consiste em:
 <li>Ler um número X de nomes de um arquivo chamado "nomes.txt" e verificar se esse arquivo existe e não está vazio;</li>
@@ -17,7 +17,7 @@ A resolução deste problema consiste em:
 
 Como você gerenciaria os espaços em branco para novas inserções? Qual seria o custo dessas novas inserções?
 
-<h2>Resolução</h2>
+<h3>Resolução</h3>
 
 Os espaços em branco são facilmente encontrados por não haver nada dentro dessa posição, logo não é difícil substituir os mesmos por outros nomes. O custo dessas novas inserções seria de n, pois a lista é percorrida uma única vez buscando posições vazias.
 
