@@ -13,7 +13,7 @@ A resolução deste problema consiste em:
 <li>Primeiramente, o método "Replicacao" verifica se a lista está vazia, em seguida verifica se existem nomes repetidos dentro da lista. Caso exista, ele o identifica e insere um "\n" no local;</li>
 <li>A saída é a própria lista lida, porém sem os nomes replicados na sua primeira aparição.</li>
 
-<img src="Screenshot_1.png">
+<img src="Lista.png">
 <img src="Screenshot_2.png">
 
 <h2>Problema 2.2</h2>
